@@ -203,5 +203,8 @@
     "@babel/types": "7.8.6",
     "**/https-proxy-agent": "5.0.0",
     "**/saucelabs": "7.1.2"
+  },
+  "overrides": {
+    "compression@1.7.4": "1.8.2"
   }
 }
